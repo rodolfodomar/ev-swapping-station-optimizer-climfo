@@ -1,0 +1,12 @@
+# Core scientific libraries
+numpy
+pandas
+scipy
+
+# Visualization libraries
+matplotlib
+plotly
+
+# Jupyter environment
+jupyter
+notebook
